@@ -13,7 +13,7 @@ button[class*=emojiButtonNormal] > div > div {
 
 [data-popout-root],
 html {
-  --brand-experiment: #a6e3a1;
+  --brand-experiment: #f2cdcd;
   --brand-experiment-100: white;
   --brand-experiment-130: white;
   --brand-experiment-160: white;
@@ -22,42 +22,42 @@ html {
   --brand-experiment-260: white;
   --brand-experiment-300: white;
   --brand-experiment-330: white;
-  --brand-experiment-360: #f0faf0;
-  --brand-experiment-400: #def5dc;
-  --brand-experiment-430: #cbefc8;
-  --brand-experiment-460: #b9e9b5;
-  --brand-experiment-500: #a6e3a1;
-  --brand-experiment-530: #93dd8d;
-  --brand-experiment-560: #81d77a;
-  --brand-experiment-600: #6ed166;
-  --brand-experiment-630: #5ccc52;
-  --brand-experiment-660: #49c63f;
-  --brand-experiment-700: #40b536;
-  --brand-experiment-730: #3cab33;
-  --brand-experiment-760: #39a130;
-  --brand-experiment-800: #35982d;
-  --brand-experiment-830: #328e2a;
-  --brand-experiment-860: #2e8427;
-  --brand-experiment-900: #2b7a24;
-  --brand-experiment-05a: rgba(166, 227, 161, 0.05);
-  --brand-experiment-10a: rgba(166, 227, 161, 0.1);
-  --brand-experiment-15a: rgba(166, 227, 161, 0.15);
-  --brand-experiment-20a: rgba(166, 227, 161, 0.2);
-  --brand-experiment-25a: rgba(166, 227, 161, 0.25);
-  --brand-experiment-30a: rgba(166, 227, 161, 0.3);
-  --brand-experiment-35a: rgba(166, 227, 161, 0.35);
-  --brand-experiment-40a: rgba(166, 227, 161, 0.4);
-  --brand-experiment-45a: rgba(166, 227, 161, 0.45);
-  --brand-experiment-50a: rgba(166, 227, 161, 0.5);
-  --brand-experiment-55a: rgba(166, 227, 161, 0.55);
-  --brand-experiment-60a: rgba(166, 227, 161, 0.6);
-  --brand-experiment-65a: rgba(166, 227, 161, 0.65);
-  --brand-experiment-70a: rgba(166, 227, 161, 0.7);
-  --brand-experiment-75a: rgba(166, 227, 161, 0.75);
-  --brand-experiment-80a: rgba(166, 227, 161, 0.8);
-  --brand-experiment-85a: rgba(166, 227, 161, 0.85);
-  --brand-experiment-90a: rgba(166, 227, 161, 0.9);
-  --brand-experiment-95a: rgba(166, 227, 161, 0.95);
+  --brand-experiment-360: white;
+  --brand-experiment-400: white;
+  --brand-experiment-430: #fdf5f5;
+  --brand-experiment-460: #f7e1e1;
+  --brand-experiment-500: #f2cdcd;
+  --brand-experiment-530: #edb9b9;
+  --brand-experiment-560: #e7a5a5;
+  --brand-experiment-600: #e29090;
+  --brand-experiment-630: #dd7c7c;
+  --brand-experiment-660: #d86868;
+  --brand-experiment-700: #d25454;
+  --brand-experiment-730: #d04949;
+  --brand-experiment-760: #cd3f3f;
+  --brand-experiment-800: #cb3535;
+  --brand-experiment-830: #c13232;
+  --brand-experiment-860: #b73030;
+  --brand-experiment-900: #ad2d2d;
+  --brand-experiment-05a: rgba(242, 205, 205, 0.05);
+  --brand-experiment-10a: rgba(242, 205, 205, 0.1);
+  --brand-experiment-15a: rgba(242, 205, 205, 0.15);
+  --brand-experiment-20a: rgba(242, 205, 205, 0.2);
+  --brand-experiment-25a: rgba(242, 205, 205, 0.25);
+  --brand-experiment-30a: rgba(242, 205, 205, 0.3);
+  --brand-experiment-35a: rgba(242, 205, 205, 0.35);
+  --brand-experiment-40a: rgba(242, 205, 205, 0.4);
+  --brand-experiment-45a: rgba(242, 205, 205, 0.45);
+  --brand-experiment-50a: rgba(242, 205, 205, 0.5);
+  --brand-experiment-55a: rgba(242, 205, 205, 0.55);
+  --brand-experiment-60a: rgba(242, 205, 205, 0.6);
+  --brand-experiment-65a: rgba(242, 205, 205, 0.65);
+  --brand-experiment-70a: rgba(242, 205, 205, 0.7);
+  --brand-experiment-75a: rgba(242, 205, 205, 0.75);
+  --brand-experiment-80a: rgba(242, 205, 205, 0.8);
+  --brand-experiment-85a: rgba(242, 205, 205, 0.85);
+  --brand-experiment-90a: rgba(242, 205, 205, 0.9);
+  --brand-experiment-95a: rgba(242, 205, 205, 0.95);
 }
 
 .theme-dark,
@@ -71,12 +71,12 @@ html {
   --text-positive: #a6e3a1;
   --text-warning: #f9e2af;
   --text-danger: #f38ba8;
-  --text-brand: #a6e3a1;
+  --text-brand: #f2cdcd;
   --background-primary: #000000;
   --background-secondary: #010101;
   --background-secondary-alt: black;
   --background-tertiary: #020202;
-  --background-accent: #a6e3a1;
+  --background-accent: #f2cdcd;
   --background-floating: black;
   --background-nested-floating: #010101;
   --background-mobile-primary: #000000;
@@ -118,7 +118,7 @@ html {
   --black-500: #020202;
   --button-danger-background: #f38ba8;
   --button-danger-background-hover: #f17497;
-  --button-danger-background-active: #8ada84;
+  --button-danger-background-active: #eaafaf;
   --button-danger-background-disabled: #f38ba8;
   --button-positive-background: #a6e3a1;
   --button-positive-background-hover: #93dd8d;
@@ -147,14 +147,14 @@ html {
   --button-outline-positive-text-active: #000000;
   --button-outline-positive-border-active: #9de097;
   --button-outline-brand-text: #cdd6f4;
-  --button-outline-brand-border: #a6e3a1;
+  --button-outline-brand-border: #f2cdcd;
   --button-outline-brand-background: transparent;
-  --button-outline-brand-background-hover: #9de097;
+  --button-outline-brand-background-hover: #efc3c3;
   --button-outline-brand-text-hover: #000000;
-  --button-outline-brand-border-hover: #9de097;
-  --button-outline-brand-background-active: #93dd8d;
+  --button-outline-brand-border-hover: #efc3c3;
+  --button-outline-brand-background-active: #edb9b9;
   --button-outline-brand-text-active: #000000;
-  --button-outline-brand-border-active: #9de097;
+  --button-outline-brand-border-active: #efc3c3;
   --button-outline-primary-text: #cdd6f4;
   --button-outline-primary-border: #585b70;
   --button-outline-primary-background: transparent;
@@ -166,24 +166,24 @@ html {
   --button-outline-primary-border-active: #525569;
   --modal-background: #000000;
   --modal-footer-background: #020202;
-  --scrollbar-thin-thumb: #a6e3a1;
+  --scrollbar-thin-thumb: #f2cdcd;
   --scrollbar-thin-track: transparent;
-  --scrollbar-auto-thumb: #a6e3a1;
+  --scrollbar-auto-thumb: #f2cdcd;
   --scrollbar-auto-track: #020202;
-  --scrollbar-auto-scrollbar-color-thumb: #a6e3a1;
+  --scrollbar-auto-scrollbar-color-thumb: #f2cdcd;
   --scrollbar-auto-scrollbar-color-track: #020202;
   --input-background: #020202;
   --input-placeholder-text: #bac2de;
   --logo-primary: #cdd6f4;
-  --control-brand-foreground: #a6e3a1;
-  --control-brand-foreground-new: #a6e3a1;
+  --control-brand-foreground: #f2cdcd;
+  --control-brand-foreground-new: #f2cdcd;
   --background-mentioned: rgba(249, 226, 175, 0.1);
   --background-mentioned-hover: rgba(249, 226, 175, 0.08);
   --background-message-hover: rgba(2, 2, 2, 0.25);
   --background-message-automod: rgba(245, 224, 220, 0.05);
   --background-message-automod-hover: rgba(245, 224, 220, 0.1);
-  --background-message-highlight: rgba(166, 227, 161, 0.1);
-  --background-message-highlight-hover: rgba(166, 227, 161, 0.08);
+  --background-message-highlight: rgba(242, 205, 205, 0.1);
+  --background-message-highlight-hover: rgba(242, 205, 205, 0.08);
   --channels-default: #969ebe;
   --channel-icon: #969ebe;
   --channel-text-area-placeholder: rgba(205, 214, 244, 0.5);
@@ -204,7 +204,7 @@ html {
   --deprecated-text-input-border-hover: black;
   --deprecated-text-input-border-disabled: #010101;
   --deprecated-text-input-prefix: #a6adc8;
-  --focus-primary: #a6e3a1;
+  --focus-primary: #f2cdcd;
   --interactive-normal: #cdd6f4;
   --interactive-muted: rgba(205, 214, 244, 0.3);
   --interactive-hover: #cdd6f4;
@@ -420,7 +420,7 @@ div[class^=sidebarRegion-] div[class^=serverBoostTabItem-] svg[class^=icon-] {
   fill: #f5c2e7 !important;
 }
 div[class^=sidebarRegion-] div[class^=serverBoostTabItem-][class*=selected-] {
-  background-color: #a6e3a1 !important;
+  background-color: #f2cdcd !important;
   color: #020202 !important;
 }
 div[class^=sidebarRegion-] div[class^=serverBoostTabItem-][class*=selected-] svg[class^=icon-] {
@@ -439,7 +439,7 @@ div[class^=sidebarRegion-] div[class*=tabBarItemContainer-] [class*=textBadge-] 
   color: #020202;
 }
 div[class^=sidebarRegion-] div[class*=tabBarItemContainer-] [class*=textBadge-][style*="background-color: var(--brand-500);"] {
-  background-color: #a6e3a1 !important;
+  background-color: #f2cdcd !important;
 }
 
 div[class^=contentRegion-] [class^=bar-],
@@ -456,11 +456,11 @@ div[class^=contentRegion-] [id="privacy-&-safety-tab"] div[class^=radioBar-][sty
   border-color: #f38ba8;
 }
 div[class^=contentRegion-] [id="privacy-&-safety-tab"] div[class*=betaTagIcon] {
-  background-color: #a6e3a1 !important;
+  background-color: #f2cdcd !important;
   color: #020202;
 }
 div[class^=contentRegion-] #accessibility-tab button[class*=colorBrandNew] {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
 }
 div[class^=contentRegion-] #keybinds-tab span[class*=key] {
   color: #020202;
@@ -554,7 +554,7 @@ div[class^=contentRegion-] #billing-tab div[class^=codeRedemptionRedirect-] {
   border-color: #313244;
 }
 div[class^=contentRegion-] [id="voice-&-video-tab"] div[class^=backgroundOptionRing-] {
-  border-color: #a6e3a1;
+  border-color: #f2cdcd;
 }
 div[class^=contentRegion-] #notifications-tab button[class*=marketingUnsubscribeButton-] {
   color: #cdd6f4;
@@ -689,7 +689,7 @@ div[class^=contentRegion-] #stickers-tab div[class*=tierBody] {
 }
 
 .bd-button {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
   color: #020202;
 }
 .bd-button.bd-button-danger {
@@ -701,7 +701,7 @@ div[class^=contentRegion-] #stickers-tab div[class*=tierBody] {
 }
 
 .bd-addon-views .bd-view-button.selected {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
 }
 .bd-addon-views .bd-view-button.selected svg {
   fill: #020202;
@@ -1012,10 +1012,10 @@ div[class*=autocomplete-] div[class*=autocompleteRowContentSecondary] {
   background-color: transparent;
 }
 div[class*=autocomplete-] div[class^=usageWrapper-] > div[class*=title-] {
-  color: #a6e3a1 !important;
+  color: #f2cdcd !important;
 }
 div[class*=autocomplete-] strong {
-  color: #a6e3a1 !important;
+  color: #f2cdcd !important;
 }
 
 div[class^=channelTextArea-] button[class*=emojiButton-] {
@@ -1044,7 +1044,7 @@ div[class^=chat] > div[class^=content-] > div[class^=container-] div[class*=coun
   color: #020202;
 }
 div[class^=chat] > div[class^=content-] > div[class^=container-] svg[class^=discordIcon-] {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
   color: #020202;
 }
 div[class^=chat] > div[class^=content-] > div[class^=container-] div[class^=newBadge-] {
@@ -1065,7 +1065,7 @@ div[class^=sidebar-] > section[class^=panels-] div[class*=buttonContents] {
   background-color: #010101;
 }
 [data-list-id^=forum-channel-list-] button[class^=submitButton-][class*=colorBrand] {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
   color: #020202;
 }
 
@@ -1196,7 +1196,7 @@ div[class^=layerContainer] [role=menu] {
   --brand-experiment-600: var(--brand-experiment);
 }
 div[class^=layerContainer] [role=menu] [class*=colorDefault][class*=colorBrand] {
-  color: #a6e3a1;
+  color: #f2cdcd;
 }
 div[class^=layerContainer] [role=menu] [class*=colorDefault][class*=focused]:not([class*=colorDanger]),
 div[class^=layerContainer] [role=menu] [class*=colorDefault][class*=focused] [class*=checkbox-] {
@@ -1236,7 +1236,7 @@ div[class^=layerContainer] [role=menu] #guild-header-popout-premium-subscribe di
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-]:not([class^=animatorBottom-]) > div div[class*=flowerStarContainer-] svg[class*=flowerStar-] *,
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-]:not([class^=animatorBottom-]) > div div[class*=flowerStarContainer-] svg[class*=flowerStar-] * {
-  fill: #a6e3a1;
+  fill: #f2cdcd;
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=countText],
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=countText] {
@@ -1248,7 +1248,7 @@ div[class^=layerContainer] [role=menu] #guild-header-popout-premium-subscribe di
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] svg[class*=activeIcon] g path,
 .theme-light div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] svg[class*=activeIcon] g path {
-  fill: #a6e3a1;
+  fill: #f2cdcd;
 }
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] div[class*=autocompleteArrow-],
 .theme-dark div[class^=layerContainer] div[id^=popout_] > div[class*=didRender-] div[class*=container] header,
@@ -1307,7 +1307,7 @@ div[class^=layerContainer] > div[class^=layer] div[class*=reactionSelected] {
 }
 
 section[class^=positionContainer-] button[class*=navButtonActive] {
-  background-color: #a6e3a1;
+  background-color: #f2cdcd;
   color: #020202;
 }
 
@@ -1470,7 +1470,7 @@ div[class*=keyboardShortcutsModal-] div[class^=keybindShortcut-] span[class^=key
 }
 
 .react-datepicker__day:active {
-  background: #a6e3a1 !important;
+  background: #f2cdcd !important;
 }
 
 .react-datepicker__day--selected:after {
@@ -1565,7 +1565,7 @@ svg[class^=cursorDefault-] svg[class^=dots-] circle {
 }
 
 [style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%)"] {
-  background-color: #a6e3a1 !important;
+  background-color: #f2cdcd !important;
   color: #020202;
 }
 
@@ -1599,7 +1599,7 @@ div[class*=flowerStarContainer-][class*=verified-] div[class^=childContainer-] s
   fill: #020202;
 }
 div[class*=flowerStarContainer-][class*=partnered-] svg[class*=flowerStar-] * {
-  fill: #a6e3a1;
+  fill: #f2cdcd;
 }
 div[class*=flowerStarContainer-][class*=partnered-] div[class^=childContainer-] svg * {
   fill: #020202;
@@ -1654,8 +1654,8 @@ div[class*=videoLayer-] > div[class^=tileChild] > div[class^=border][class*=spea
   box-shadow: inset 0 0 0 2px #a6e3a1, inset 0 0 0 3px #a6e3a1;
 }
 div[class*=videoLayer-] > div[class^=tileChild] > div[class^=border][class*=voiceChannelEffect-] {
-  -webkit-box-shadow: inset 0 0 0 2px #a6e3a1, inset 0 0 0 3px #a6e3a1;
-  box-shadow: inset 0 0 0 2px #a6e3a1, inset 0 0 0 3px #a6e3a1;
+  -webkit-box-shadow: inset 0 0 0 2px #f2cdcd, inset 0 0 0 3px #f2cdcd;
+  box-shadow: inset 0 0 0 2px #f2cdcd, inset 0 0 0 3px #f2cdcd;
 }
 
 div[class*=unread-],
@@ -2033,11 +2033,11 @@ div[class^=notice-] button[class^=button-] {
   color: #020202;
 }
 div[class^=notice-] button[class^=button-]:hover {
-  background: #81d77a;
+  background: #e7a5a5;
 }
 
 div[class^=checkbox-][style*="border-color: var(--brand-experiment-400)"][style*="background-color: var(--brand-experiment-500)"] {
-  background-color: #a6e3a1 !important;
+  background-color: #f2cdcd !important;
   border-color: transparent !important;
 }
 div[class^=checkbox-][style*="border-color: var(--brand-experiment-400)"][style*="background-color: var(--brand-experiment-500)"] svg > path {
